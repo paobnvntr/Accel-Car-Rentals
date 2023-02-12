@@ -4,7 +4,7 @@
 2. Download the accel_db database file in the database-file folder
 3. Open [PHPMyAdmin](http://localhost/phpmyadmin/) on your browser
 4. Create a database
-5. Upload the accel_db database file.
+5. Upload the accel_db database file
 6. Open assets/database/connection.php
 7. Update the dbpass, dbname
 6. Open cars.php
